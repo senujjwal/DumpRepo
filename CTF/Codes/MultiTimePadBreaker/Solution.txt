@@ -1,0 +1,43 @@
+00: We can factor the number 15 with quantum computers. We can also factor the number 1
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+01: Euler would probably enjoy that now his theorem becomes a corner stone of crypto -
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+02: The nice thing about Keeyloq is now we cryptographers can drive a lot of fancy cars
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+03: The ciphertext produced by a weak encryption algorithm looks as good as ciphertext
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+04: You don't want to buy a set of car keys from a guy who specializes in stealing cars
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+05: There are two types of cryptography - that which will keep secrets safe from your l
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+06: There are two types of cyptography: one that allows the Government to use brute for
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+07: We can see the point where the chip is unhappy if a wrong bit is sent and consumes
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+08: A (private-key)  encryption scheme states 3 algorithms, namely a procedure for gene
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+09:  The Concise OxfordDictionary (2006) de???nes crypto as the art of  writing o r sol
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8
+
+10: The secret message is: When using a stream cipher, never use the key more than once
+     123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+    0         1         2         3         4         5         6         7         8

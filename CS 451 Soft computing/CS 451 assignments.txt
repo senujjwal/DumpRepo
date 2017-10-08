@@ -1,0 +1,22 @@
+Jul 30: Theory
+Aug 06: Plot classifications for 2 variable boolean functions
+Aug 13: Lab assignment 2:
+	1) Identify weight vector for NAND gate classification by repeatedly generating weight vector
+	2) Implement perceptron learning algorithm. Train and test for 3 linearly separable problems
+	3) WAP to automatically list out all linearly separable Boolean functions of three inputs from f0 to f255 using perceptron learning algorithm.
+Aug 20: Classification in 3D space
+Aug 27: Lab assignment 3:
+	1)LMS learning algorithm(linear activation function)
+	2)Delta learning: T&T for NAND classification
+	3)ADALINE: T&T for AND gate classification
+	4)MADALINE: T&T for XOR classification
+Sep 03: Classification of XOR gate using Back propogation 
+Sep 10: ???
+Sep 17: Image processing, 7-segment decoding
+Sep 24: Mid semester exams
+Oct 01: Hopfield networks
+Oct 08: Contd...
+Oct 15: Unsupervised learning: Cluster identification
+Oct 22: Holiday
+Oct 29: "Extended" holiday
+Nov 05: XOR Training using radial basis functions
